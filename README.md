@@ -17,4 +17,4 @@ To use this Study Guide press Control+Shift+I
 NA
 
 ## License
-Please refer to thje license in the repo
+Please refer to the license in the repo
